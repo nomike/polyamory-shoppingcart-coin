@@ -1,0 +1,17 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "heart": {
+            "render_color": "red"
+        },
+        "infinity": {
+            "render_color": "blue"
+        },
+        "coin": {
+            "render_color": "yellow"
+        },
+        "all": {
+            "render_color": "all"
+        }        
+    }
+}
